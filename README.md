@@ -11,4 +11,4 @@ cd Slit-MultiTool
 
 python slit.py
 
-![Screenshot 2025-06-22 7 52 52 PM](https://github.com/user-attachments/assets/4c289e52-f670-471d-8d0e-90bc3ac67cf5)
+![Screenshot 2025-06-22 8 47 57 PM](https://github.com/user-attachments/assets/5b753249-dd11-4828-ad30-32b38ac980a1)
