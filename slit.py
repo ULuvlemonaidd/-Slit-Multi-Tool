@@ -53,7 +53,7 @@ def print_menu():
     │  {Colors.CYAN}[3]{Colors.RED} Layer 4 DOS Tool               │
     │  {Colors.CYAN}[4]{Colors.RED} Layer 7 DOS Tool               |
     |  {Colors.CYAN}[5]{Colors.RED} Email Flood                    │
-    │  {Colors.CYAN}[6]{Colors.RED} About                         │
+    │  {Colors.CYAN}[6]{Colors.RED} About                          │
     │  {Colors.CYAN}[0]{Colors.RED} Exit                           │
     └─────────────────────────────────────────┘
 {Colors.END}"""
@@ -265,12 +265,15 @@ def show_about():
     ║  • Layer 7 DOS (HTTP Flood)                           ║
     ║  • Mail Flood (Email Flood)                           ║
     ║                                                       ║
+    ║  Coming soon:                                         ║
+    ║  sms flood , udp flood , voip and dns spoofer         ║                                    ║                                                       ║
+    ║                                                       ║
     ║  {Colors.RED}LEGAL DISCLAIMER:{Colors.PURPLE}         ║
     ║  This tool is for educational purposes only.          ║
     ║  Only use on systems you own or have explicit         ║
     ║  permission to test. Unauthorized access is illegal.  ║
     ║  {Colors.RED} DISCLAIMER:{Colors.PURPLE}              ║  
-    ║The Mail flood and IP puller tools are having issues.   ║
+    ║Mail & sms flood and IP puller tools are having issues.║
     ║ Please download the Lolpull tools for all IP Pullers.  ║              
     ╚════════════════════════════════════════════════════════╝
 {Colors.END}"""
