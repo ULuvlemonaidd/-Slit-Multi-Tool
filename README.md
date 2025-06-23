@@ -5,9 +5,10 @@ The Python Networking & Flooding Multi-Tool is a versatile and modular utility d
 
 DOWNLOAD CMD |
              
-git clone https://github.com/ULuvlemonaidd/-Slit-Multi-Tool/
+git clone https://github.com/ULuvlemonaidd/Slit-MultiTool
 
-cd -Slit-Multi-Tool
+cd Slit-MultiTool
+
 python slit.py
 
 ![Screenshot 2025-06-22 7 52 52 PM](https://github.com/user-attachments/assets/4c289e52-f670-471d-8d0e-90bc3ac67cf5)
